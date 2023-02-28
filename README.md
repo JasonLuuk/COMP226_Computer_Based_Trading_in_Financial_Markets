@@ -17,3 +17,7 @@
 * Year: Session 2021-22
 * Semester: Second Semester
 * Lectuer: Professor Rahul Savani
+
+ ## Module Results
+* Assignment 1: 100
+* Assignment 2: 100
