@@ -1,0 +1,1000 @@
+A j S 98 53
+A k B 95 35
+R j 53
+R h 20
+A l B 90 52
+A m S 98 39
+A n S 98 50
+R m 39
+R h 55
+R h 92
+R n 35
+A o B 93 55
+A p S 101 44
+A q S 98 25
+A r B 96 21
+R p 44
+A s B 96 83
+R s 70
+A t S 98 17
+R q 25
+R t 17
+R n 15
+A u S 99 65
+A v B 97 261
+R d 22
+R o 55
+R v 84
+R v 43
+R v 133
+A w S 98 24
+A x B 95 102
+A y S 99 80
+R s 13
+R r 21
+R w 24
+R u 47
+R b 37
+R k 35
+R x 78
+A z B 97 28
+R y 62
+A aa B 97 155
+R v 1
+R z 28
+R aa 70
+A ab S 99 516
+R ab 87
+A ac S 100 51
+A ad S 99 96
+R y 18
+R u 18
+R ad 48
+R ab 65
+R aa 85
+A ae S 101 142
+A af S 99 162
+A ag B 95 394
+R af 69
+R ag 225
+R ab 161
+R x 24
+R ag 109
+R ag 60
+A ah B 95 351
+R ah 100
+A ai S 97 528
+R ai 120
+R ad 48
+R ab 90
+R ai 80
+R ai 55
+R ai 71
+R ah 116
+R af 66
+R ai 83
+R ai 91
+A aj B 96 136
+R ai 28
+R ae 101
+A ak B 93 113
+R ak 113
+A al S 104 298
+A am B 93 58
+R am 58
+A an B 97 935
+R an 80
+R an 72
+R an 76
+R ab 76
+R an 82
+R an 81
+R an 104
+R an 95
+R an 79
+A ao S 104 29
+R an 75
+A ap S 102 89
+A aq S 99 313
+R af 27
+R ab 37
+R aq 22
+R an 53
+R ah 55
+R an 90
+R an 48
+R aq 84
+R ap 89
+R aj 88
+R aq 61
+R ah 45
+R ao 29
+R al 49
+A ar B 97 90
+R ar 62
+A as S 101 228
+R ae 41
+R as 16
+R aq 93
+R aq 53
+A at S 99 20
+R as 148
+R al 81
+R ar 28
+A au S 98 106
+A av S 100 93
+R ac 51
+R av 25
+R au 94
+R as 64
+A aw B 93 226
+R aj 48
+R aw 71
+R aw 93
+A ax S 97 125
+A ay S 103 53
+R aw 62
+R ah 35
+A az S 92 101
+A ba B 87 96
+R l 52
+R az 81
+A bb B 89 30
+A bc B 90 105
+A bd B 86 96
+A be B 88 56
+A bf S 91 48
+R bc 41
+R bc 64
+R bb 30
+R bf 48
+A bg S 91 50
+A bh B 89 368
+R bh 132
+R bh 50
+R bh 75
+R be 40
+A bi B 88 27
+R bh 111
+R bi 20
+A bj B 89 68
+R bg 50
+R bj 68
+A bk S 89 16
+A bl S 89 14
+R bi 7
+R be 16
+A bm S 90 72
+A bn S 92 481
+R ba 40
+R bn 84
+R ba 56
+R bn 97
+A bo B 82 40
+A bp B 86 217
+A bq B 86 252
+R bn 78
+R bp 137
+R bm 65
+R bp 64
+A br S 91 253
+R bd 96
+R bq 15
+R bp 16
+R bq 53
+A bs S 88 66
+R bq 90
+R bk 16
+R bl 14
+A bt S 95 27
+R bs 46
+R bq 94
+A bu S 88 102
+A bv S 84 75
+A bw B 83 64
+R bo 40
+R bw 64
+A bx B 81 100
+A by S 85 173
+A bz B 82 133
+R bz 119
+R bx 100
+R by 110
+A ca B 80 117
+R bv 75
+A cb S 86 114
+A cc S 88 29
+A cd S 87 67
+A ce S 87 236
+A cf S 86 165
+R ca 117
+A cg S 86 54
+R ce 72
+A ch S 85 92
+A ci B 83 70
+R ch 83
+R ci 52
+A cj B 84 177
+R cj 67
+R by 63
+R ch 9
+R cj 110
+R cg 54
+R cf 3
+R bz 14
+A ck S 85 48
+R cd 67
+R ce 49
+R cf 41
+R ci 18
+A cl B 81 103
+R cl 103
+A cm B 82 36
+A cn B 83 19
+R bu 102
+R bs 20
+R cc 16
+R cc 13
+A co B 83 56
+R az 20
+R bn 45
+R ce 115
+A cp S 87 98
+R cf 77
+R cb 79
+A cq S 85 383
+R ck 48
+R cq 139
+R cq 66
+A cr B 83 111
+R cn 19
+R cr 38
+R cq 166
+R cr 73
+R co 22
+R cb 35
+R cf 36
+R co 34
+A cs S 86 44
+R br 41
+A ct B 81 207
+R bn 139
+A cu B 84 81
+R cu 81
+R ct 120
+R cp 98
+A cv B 82 177
+A cw B 84 50
+R cw 50
+R cm 36
+R cv 114
+A cx B 84 26
+A cy S 89 52
+A cz B 83 220
+R br 89
+R cz 182
+A da B 80 75
+A db S 88 33
+A dc B 82 228
+R cs 44
+R cf 8
+A dd S 88 35
+R cv 63
+R dc 195
+A de S 87 39
+R da 75
+A df B 83 50
+A dg B 83 136
+R df 50
+R cz 14
+A dh B 83 29
+R ct 87
+R cy 52
+R dh 29
+R cz 24
+R dg 20
+R dg 116
+A di B 82 139
+R dc 33
+R di 49
+A dj S 90 76
+R cx 26
+A dk B 83 26
+A dl B 83 95
+R di 37
+A dm B 78 51
+A dn S 85 80
+R cq 12
+R dn 63
+R dl 44
+R dl 51
+R dk 26
+A do S 88 42
+A dp S 87 110
+A dq S 84 299
+A dr S 85 65
+R dn 17
+R dr 59
+A ds B 76 37
+R dp 110
+R de 5
+R dq 137
+R di 53
+A dt S 82 71
+R dq 58
+A du S 80 73
+A dv S 80 25
+A dw B 74 73
+R dm 51
+A dx S 78 64
+A dy S 82 29
+R dx 64
+A dz S 78 13
+R dw 73
+A ea B 75 263
+A eb B 71 152
+R dq 64
+A ec B 76 108
+R ea 68
+A ed B 76 162
+R ec 80
+R ds 37
+R ed 97
+R ed 65
+R ec 9
+R ec 19
+A ee S 78 149
+A ef S 77 85
+R ea 107
+R ee 73
+R ef 85
+R du 73
+R dv 10
+A eg B 75 231
+A eh B 75 45
+A ei S 77 435
+R eg 80
+R ei 71
+R ei 223
+R ei 78
+A ej S 82 116
+A ek S 79 461
+R ek 40
+A el S 77 59
+R eh 45
+R ea 40
+R ei 59
+A em S 77 167
+A en S 78 1118
+R en 99
+R ea 48
+R eg 149
+A eo B 75 290
+R eb 51
+R dz 13
+R en 93
+R ek 116
+R ek 72
+R en 42
+R eg 2
+R eo 95
+R el 59
+R em 12
+R eo 103
+R eo 59
+R em 110
+R en 183
+R em 45
+R ei 4
+R ek 144
+A ep B 73 777
+A eq B 73 159
+R ee 76
+R en 26
+R eb 80
+R en 110
+R en 145
+A er S 81 43
+R eo 33
+R en 93
+R en 54
+R ep 166
+A es S 75 178
+R es 50
+R ep 65
+R es 65
+R en 96
+R ep 45
+A et S 76 36
+A eu S 81 58
+R ep 45
+R ep 179
+R ep 70
+A ev B 71 208
+R eq 46
+R ev 61
+R er 43
+R eu 29
+R eq 89
+A ew S 77 42
+R en 75
+A ex S 76 67
+R es 63
+A ey B 68 17
+R eb 21
+R ev 74
+R et 36
+R ex 24
+A ez S 74 109
+R ep 199
+R ez 79
+A fa B 69 46
+R ez 30
+A fb S 75 82
+R fb 82
+R ek 69
+A fc S 74 167
+A fd S 75 78
+R fd 78
+A fe B 71 170
+R ev 59
+R ev 14
+R fe 118
+R ew 42
+A ff S 75 137
+R eq 24
+R ep 8
+R fe 52
+A fg B 71 132
+R fc 163
+A fh S 74 20
+R fg 80
+A fi S 72 69
+A fj S 76 308
+R fg 52
+A fk S 76 81
+A fl S 72 40
+A fm S 71 121
+A fn B 69 55
+R fa 46
+R fn 29
+A fo B 65 730
+A fp B 67 37
+A fq B 68 73
+R fj 93
+R fk 53
+R fo 94
+R fm 46
+R fo 70
+R fj 154
+R fm 75
+A fr S 71 216
+R fl 40
+R fi 19
+R fn 26
+A fs B 69 181
+R fo 76
+R fs 124
+A ft S 72 107
+R fk 28
+R fj 50
+R fr 124
+R ft 107
+R fi 50
+A fu B 68 403
+R fr 92
+R fs 55
+R ff 132
+A fv B 68 61
+A fw S 76 26
+R fv 61
+R ey 17
+R fq 29
+R fh 20
+R fc 4
+A fx S 71 419
+A fy S 70 117
+R fx 87
+R fx 121
+R fq 44
+R fu 52
+R fy 117
+A fz S 72 17
+R fo 84
+R fx 148
+R fo 88
+R fu 85
+R ex 43
+R fj 11
+R fw 26
+R fu 49
+R fu 217
+A ga B 69 195
+A gb S 76 230
+R fo 80
+R ga 36
+R fx 63
+R fo 69
+R ga 151
+R fo 169
+A gc B 68 13
+A gd B 70 147
+R gd 106
+R fz 17
+A ge B 71 166
+A gf S 73 29
+R ge 82
+R ge 84
+R gd 41
+A gg B 71 257
+R gg 61
+A gh B 71 292
+R gf 29
+A gi S 73 78
+R gh 144
+R gi 78
+A gj S 73 117
+A gk B 69 55
+R gh 58
+R gh 66
+R gg 81
+R gh 24
+R gg 35
+R gj 77
+R gg 80
+R gj 40
+A gl S 71 9
+R gk 55
+R ga 8
+R fs 2
+R fp 37
+A gm B 68 108
+R gc 13
+R gm 76
+A gn B 67 77
+A go B 67 121
+A gp B 65 48
+A gq B 69 216
+R gq 117
+A gr B 65 205
+R gm 32
+A gs S 73 118
+A gt S 71 192
+R gs 118
+R gp 48
+R gr 42
+R gl 9
+R gt 124
+A gu B 68 88
+R gt 68
+A gv B 73 114
+A gw S 74 56
+A gx S 75 14
+R en 102
+A gy S 79 48
+A gz S 74 26
+R gn 67
+R gz 26
+R gw 47
+R gv 52
+A ha S 78 92
+R gv 62
+R gu 88
+R ha 92
+A hb S 73 255
+R hb 113
+A hc B 71 135
+R hc 101
+R gq 31
+A hd B 70 13
+A he B 71 43
+R he 43
+R hc 14
+R hb 107
+R gb 67
+R gb 163
+A hf B 69 38
+A hg B 71 76
+R hb 35
+A hh S 74 83
+R hg 64
+A hi B 71 85
+R hh 48
+R hi 85
+R hg 12
+R hc 5
+A hj S 73 55
+R gr 55
+A hk B 71 63
+R hj 44
+R hc 15
+R hk 63
+R go 103
+A hl B 71 56
+A hm S 73 72
+A hn S 74 68
+R hj 11
+R hm 46
+A ho B 70 280
+R hm 26
+R hd 13
+R ho 130
+A hp B 68 21
+R hh 35
+R hn 14
+R hf 38
+R gq 28
+R go 18
+R gn 10
+A hq B 70 21
+R gq 40
+R hn 54
+R gw 9
+R hl 56
+R hq 21
+R ho 38
+A hr B 70 117
+R ho 92
+R hr 52
+R gx 14
+R ff 5
+A hs B 77 41
+A ht S 83 154
+A hu B 76 97
+R ek 20
+R gy 48
+A hv S 79 31
+R hu 59
+R hs 41
+A hw B 73 156
+R ht 118
+R hw 116
+A hx B 72 13
+A hy B 76 104
+R dy 29
+R ej 69
+A hz S 78 26
+A ia S 79 28
+R hy 65
+R ia 28
+R hv 23
+R eu 29
+A ib S 78 232
+R hz 26
+R ib 79
+R hu 38
+R hy 39
+A ic S 74 15
+R hx 13
+A id S 75 39
+R hw 40
+A ie B 71 20
+A if B 72 149
+R if 33
+R hr 65
+R ho 20
+R id 39
+A ig B 68 81
+A ih S 75 227
+R if 60
+R ib 119
+A ii S 74 60
+R ii 60
+R ic 15
+R ig 81
+R hp 21
+R ih 75
+A ij B 69 31
+R ih 78
+A ik B 73 137
+R ik 137
+A il B 73 76
+R ih 62
+R dt 71
+R ej 27
+A im S 77 85
+A in S 76 776
+R ih 12
+R in 95
+R in 41
+R in 80
+R in 81
+R il 66
+R in 113
+R in 76
+R if 56
+A io B 72 61
+A ip S 75 83
+A iq B 73 211
+R iq 118
+R ip 83
+A ir B 72 47
+R im 66
+R il 10
+R iq 68
+A is B 72 43
+R in 83
+R is 43
+R ir 47
+R io 22
+A it S 81 194
+R in 48
+R ij 31
+R io 39
+A iu S 76 237
+A iv B 74 74
+R iv 64
+R iu 75
+R it 181
+R in 100
+R im 19
+R in 59
+R iu 32
+A iw B 73 87
+A ix S 77 77
+R iu 112
+A iy B 74 786
+R iv 10
+R iy 130
+R iy 184
+R iy 113
+R iy 66
+R iy 59
+A iz B 73 109
+R iy 141
+A ja B 70 97
+R ie 20
+R ix 57
+R iy 67
+R ja 72
+R iw 63
+R iy 26
+A jb S 77 112
+A jc B 72 89
+A jd B 74 26
+A je S 76 112
+R iu 18
+R je 50
+A jf S 76 106
+R jf 106
+R je 27
+A jg S 76 110
+R iz 83
+A jh S 79 143
+R jg 110
+R je 35
+R jd 26
+A ji S 75 35
+A jj B 70 58
+R ji 35
+R jc 42
+A jk S 75 11
+R ix 20
+R jb 24
+A jl S 77 35
+R iz 26
+R iw 24
+R iq 25
+A jm B 73 107
+R jm 93
+R jm 14
+A jn S 75 11
+A jo S 78 172
+A jp B 72 347
+R ja 25
+R jj 58
+R jo 56
+A jq S 74 47
+A jr B 71 25
+A js S 78 67
+R jc 33
+R jc 14
+R jp 37
+R jp 81
+A jt S 74 28
+R jp 39
+R jb 79
+R jq 47
+R jt 28
+R jo 69
+R jr 25
+A ju B 73 283
+R jp 103
+R ju 116
+R js 67
+R ib 34
+R jo 12
+R ju 77
+R ju 81
+A jv S 76 49
+A jw S 75 248
+R jw 99
+R jw 135
+R jp 83
+R jv 49
+A jx S 77 246
+R jl 35
+R jb 9
+R jx 65
+R jh 118
+R jx 49
+A jy S 78 57
+R ju 9
+A jz S 77 101
+R jz 101
+R jx 30
+R jx 102
+A ka S 74 19
+A kb S 74 74
+R kb 74
+R ka 6
+R jp 4
+A kc B 72 219
+R kc 112
+A kd S 82 175
+R kc 107
+A ke B 72 16
+R ke 16
+A kf B 72 81
+A kg B 72 29
+R kf 68
+R kf 13
+R kg 29
+A kh B 71 98
+R kh 94
+A ki S 73 90
+A kj B 68 177
+A kk S 74 56
+A kl S 73 92
+R jw 14
+R jk 11
+R jn 11
+R ki 90
+R kl 8
+R kl 84
+R gr 59
+A km B 69 45
+A kn S 73 92
+A ko B 66 73
+R kn 90
+R kj 76
+R ko 73
+R ka 13
+R kk 48
+A kp B 67 68
+A kq B 70 273
+A kr B 70 128
+A ks B 69 57
+A kt S 73 172
+R kj 77
+R kt 55
+A ku S 73 54
+R ks 57
+R km 45
+A kv B 65 74
+R kj 24
+R kn 2
+R ku 54
+R kt 36
+R kt 56
+A kw S 74 170
+R kt 25
+A kx B 73 54
+R kw 141
+R kq 64
+R kw 29
+R kk 8
+A ky S 75 149
+A kz S 75 51
+R kz 51
+R ky 12
+R kp 68
+R jo 35
+R jy 35
+A la B 70 49
+A lb B 73 217
+R ky 108
+R kx 54
+R lb 7
+R ky 29
+A lc B 76 115
+R lc 59
+R it 13
+A ld B 75 58
+R ld 58
+R lc 56
+A le S 75 97
+A lf B 73 19
+R lf 19
+R lb 38
+R lb 83
+A lg S 75 146
+R lg 58
+R lg 71
+A lh S 75 35
+R le 34
+A li S 82 234
+A lj B 73 130
+R la 49
+R kq 38
+A lk S 77 107
+R lj 94
+R lb 67
+R ej 20
+R li 39
+R lh 35
+R le 63
+R lg 17
+A ll B 69 216
+A lm B 72 168
+A ln S 76 90
+R lb 22
+R lj 36
+R ll 116
+A lo B 71 134
+R kr 78
+A lp B 70 69
+A lq B 74 39
+R jh 25
+R hv 8
+A lr B 73 48
+A ls B 70 409
+R lk 37
+A lt B 72 162
+R lt 152
+R lq 39
+R lp 69
+R kr 37
+R ls 41
+R lk 65
+R lr 48
+R lo 134
+R kh 4
+A lu B 74 163
+R kr 13
+R kq 76
+R lu 97
+R ln 90
+A lv B 72 297
+A lw B 70 34
+R lt 10
+R lv 41
+R ll 100
+R lu 66
+A lx B 75 117
+A ly S 81 97
+A lz B 73 328
+R kq 77
+A ma B 74 105
+R lm 168
+R lv 26
+R lz 49
+A mb S 77 246
+R mb 94
+R lv 80
+R mb 105
+A mc S 78 109
+A md S 77 10
+R lx 58
+R kq 18
+R lw 26
+R md 10
+R lk 5
+R mb 25
+R mc 109
+R jy 22
+A me S 77 168
+R mb 22
+R me 71
+R me 78
+R lz 85
+A mf S 78 81
+A mg B 74 129
+R ls 108
+R me 19
+A mh B 73 141
+R mg 129
+R ma 50
+R ma 55
+R kd 89
+R mf 76

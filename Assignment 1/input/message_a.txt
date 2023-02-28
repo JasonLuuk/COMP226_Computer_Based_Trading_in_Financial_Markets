@@ -1,0 +1,141 @@
+A j S 97 132
+A k S 99 71
+A l B 95 29
+A m S 98 88
+A n S 96 375
+A o S 104 292
+A p B 94 87
+A q S 98 166
+A r S 102 194
+A s B 91 102
+
+
+
+
+
+
+
+
+
+
+
+original_ask_book <- book$ask
+      # repeat{
+        if( price == original_ask_book[which(book$ask$price == min(book$ask$price))[1],]$price){
+          if(size >= original_ask_book[which(book$ask$price == min(book$ask$price))[1],]$size){
+            original_ask_book <-  original_ask_book[-which(book$ask$price == min(book$ask$price))[1],]
+            copy_book$ask <- original_ask_book
+            print(book.midprice(copy_book))
+          }
+          else{
+            copy_book$ask <- original_ask_book
+            print(book.midprice(copy_book))
+          }
+        }
+        else
+        {
+          difference <- size - original_ask_book[which(book$ask$price == min(book$ask$price))[1],]$size
+          if(difference < 0){
+            copy_book$ask <- original_ask_book
+            print(book.midprice(copy_book))
+            break;
+          }
+          else if(difference == 0){
+            original_ask_book <-  original_ask_book[-which(book$ask$price == min(book$ask$price))[1],]
+            copy_book$ask <- original_ask_book
+            print(book.midprice(copy_book))
+            break;
+          }
+          else{
+            original_ask_book <-  original_ask_book[-which(book$ask$price == min(book$ask$price))[1],]
+            
+          }
+        }
+        # break
+        
+      # }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+book.extra1 <- function(book, size) {
+  
+  
+  M = sum(book$ask$size)
+  if( size == M) {
+    book.summarise(book)
+    # return(NA)
+  }
+  else
+  {
+    mid_price_set <- c()
+    copy_book = book
+    price_set <- book$ask$price
+    for(price in price_set)
+    {
+      # original_ask_book <- book$ask
+      new_ask_book <- book$ask[1:which(book$ask$price == price),]
+      cal_size <- size
+      repeat{
+        # print(new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size)
+        if(cal_size - new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size > 0){
+          cal_size <- cal_size - new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size
+          new_ask_book <-  new_ask_book[-c(which(new_ask_book$price == min(new_ask_book$price)))[1],]
+          print(copy_book$ask - new_ask_book )
+          if(is.infinite(min(new_ask_book$price))){break}
+        }
+        else if(is.infinite(min(new_ask_book$price))){
+          break
+        }
+        else if(cal_size - new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size == 0)
+        {
+          cal_size <- cal_size - new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size
+          new_ask_book <-  new_ask_book[-c(which(new_ask_book$price == min(new_ask_book$price)))[1],]
+          print('2')
+          print(new_ask_book)
+          break
+        }
+        else
+        {
+          new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size <- new_ask_book[which(new_ask_book$price == min(new_ask_book$price))[1],]$size - cal_size
+          print('1')
+          print(new_ask_book)
+          break
+        }
+      }
+    }
+  }

@@ -1,0 +1,24 @@
+$ask
+   oid price size
+10   a   105   20
+9    o   104  292
+8    d   104   22
+7    r   102  194
+6    k    99   71
+5    q    98  166
+4    m    98   88
+3    h    98  167
+2    j    97  132
+1    n    96  375
+
+$bid
+  oid price size
+1   b    95   37
+2   l    95   29
+3   p    94   87
+4   s    91  102
+
+Total volume: 255 1527 
+Best prices: 95 96 
+Mid-price: 95.5 
+Spread: 1 

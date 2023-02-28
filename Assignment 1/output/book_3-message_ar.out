@@ -1,0 +1,42 @@
+$ask
+   oid price size
+24   a   105   20
+23  al   104  168
+22  ay   103   53
+21  av   100   68
+20  at    99   20
+19  au    98   12
+18  ax    97  125
+17  bt    95   27
+16  bn    92   38
+15  br    91  123
+14  dj    90   76
+13  bm    90    7
+12  do    88   42
+11  dd    88   35
+10  db    88   33
+9   de    87   34
+8   dr    85    6
+7   dq    84   40
+6   ht    83   36
+5   li    82  195
+4   kd    82   86
+3   ly    81   97
+2   dv    80   15
+1   mf    78    5
+
+$bid
+  oid price size
+1  lx    75   59
+2  lz    73  194
+3  mh    73  141
+4  lv    72  150
+5  ls    70  260
+6  lw    70    8
+7  gr    65   49
+8  kv    65   74
+
+Total volume: 935 1361 
+Best prices: 75 78 
+Mid-price: 76.5 
+Spread: 3 
