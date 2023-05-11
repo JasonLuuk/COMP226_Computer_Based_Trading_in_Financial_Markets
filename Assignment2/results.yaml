@@ -1,0 +1,26 @@
+username: "Tell me your username and I'll tell you your result"
+periods:
+  startIn: 1
+  endIn: 815
+  startOut: 816
+  endOut: 2000
+ins:
+  short: 10.0
+  medium: 50.0
+  long: 200.0
+  series1: 1
+  series2: 0
+  series3: 1
+  series4: 1
+  profit: 2259.886
+  rank_on_out: 13.0
+out:
+  short: 5.0
+  medium: 100.0
+  long: 200.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 19222.5
+  rank_on_in: 67.0
